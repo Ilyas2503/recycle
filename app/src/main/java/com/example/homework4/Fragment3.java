@@ -10,9 +10,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 
-public class Fragment3 extends Fragment{
-
-
+public class Fragment3 extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
